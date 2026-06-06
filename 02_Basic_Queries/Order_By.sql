@@ -1,0 +1,27 @@
+-- ORDER BY ASC
+
+SELECT *
+FROM student
+ORDER BY NAME ASC;
+
+SELECT *
+FROM faculty
+ORDER BY NAME ASC;
+
+SELECT *
+FROM course
+ORDER BY course_name ASC;
+
+-- ORDER BY DESC
+
+SELECT *
+FROM student
+ORDER BY NAME DESC;
+
+SELECT *
+FROM faculty
+ORDER BY NAME DESC;
+
+SELECT *
+FROM course
+ORDER BY course_name DESC;

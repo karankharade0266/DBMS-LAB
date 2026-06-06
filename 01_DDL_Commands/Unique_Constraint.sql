@@ -1,0 +1,4 @@
+CREATE TABLE Employee (
+    EmpID INT PRIMARY KEY,
+    Email VARCHAR(100) UNIQUE
+);
