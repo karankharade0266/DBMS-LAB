@@ -1,0 +1,90 @@
+# DBMS Lab Assignments
+
+**Student Name:** Karan Kharade
+
+## Overview
+
+This repository contains SQL programs and assignments performed during DBMS laboratory sessions. The repository is organized topic-wise for easy understanding and reference.
+
+## Repository Structure
+
+```text
+DBMS-LAB/
+│
+├── 01_DDL_Commands/
+├── 02_Basic_Queries/
+├── 03_Set_Operations/
+├── 04_Aggregate_Functions/
+├── 05_Database_Modification/
+├── 06_Constraints/
+├── 07_Joins/
+├── 08_Views/
+└── 09_Triggers/
+```
+
+## Topics Covered
+
+### 1. DDL Commands
+- Create Database
+- Create Table
+- Alter Table
+- Drop Table
+
+### 2. Basic Queries
+- SELECT
+- WHERE
+- FROM
+- ORDER BY
+- Pattern Matching (LIKE)
+
+### 3. Set Operations
+- UNION
+- INTERSECT
+- EXCEPT
+
+### 4. Aggregate Functions
+- AVG()
+- MAX()
+- MIN()
+- COUNT()
+- SUM()
+- GROUP BY
+- HAVING
+
+### 5. Database Modification
+- INSERT
+- UPDATE
+- DELETE
+
+### 6. Constraints
+- Primary Key
+- Foreign Key
+- NOT NULL
+- UNIQUE
+- CHECK
+
+### 7. Joins
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL OUTER JOIN
+- CROSS JOIN
+- SELF JOIN
+
+### 8. Views
+- Create View
+- Display View
+
+### 9. Triggers
+- BEFORE INSERT Trigger
+- AFTER INSERT Trigger
+
+## Software Used
+
+- MySQL
+- Visual Studio Code
+- Git & GitHub
+
+## Purpose
+
+This repository serves as a collection of DBMS practical programs, queries, and concepts learned during laboratory sessions.
